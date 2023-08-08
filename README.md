@@ -1,5 +1,6 @@
 # image_classification_vision_transformer
 Dataset located in the google drive:
+
 ![image](https://github.com/AsinaMilic/image_classification_with_vision_transformers/assets/54029561/87787be6-5d8a-4108-9c84-65cc93bc478b)
 
 ![image](https://github.com/AsinaMilic/image_classification_with_vision_transformers/assets/54029561/687b6b15-7ec8-4298-a1b3-917f7b3de490)
